@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dinner Decider</string>
+    <string name="btn_add_food">AGREGAR COMIDA</string>
+    <string name="hint_text">Agregar nueva comida…</string>
+    <string name="btn_decide">Decidir!</string>
+    <!-- Dialog -->
+    <string name="dialog_title">Eliminar elemento</string>
+    <string name="dialog_message">¿Seguro?</string>
+    <string name="dialog_confirmation">Si</string>
+    <!--Toast -->
+    <string name="toast_message">Input vacio</string>
+    <!--Empty view Message-->
+    <string name="list_view_empty">Sin elementos</string>
+</resources>
